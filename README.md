@@ -1,2 +1,6 @@
-# Passport-Automation-System-
-A **Passport Automation System** is a software system that automates passport applications, document verification, and application tracking. It reduces paperwork, saves time, minimizes errors, and makes passport processing faster and more secure.
+# ASSIGNED SAMPLE PROJECT NAME
+This project is created for academic demonstration purpose only
+Software Configuration Management using GitHub.
+Student Name: Manish Reddy
+Roll Number:25b81a6695
+Class: CSM-B
